@@ -1,4 +1,6 @@
 package cs1c;
+
+
 /**
  * One object of class SongEntry stores a simplified version of the genre data set from 
  * the Million Song Dataset.

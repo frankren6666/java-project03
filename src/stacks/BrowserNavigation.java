@@ -1,4 +1,4 @@
-package stacks;
+package src.stacks;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Iterator;
@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Simulates a browser's back and forward buttons by recording links that are visited
  * and then keeping a stack of "back" links and a stack of "forward" links.
  *
- * @author Foothill College, Bita M, [YOUR NAME HERE]
+ * @author Foothill College, Bita M, [Swati]
  */
 public class BrowserNavigation 
 {
@@ -97,7 +97,10 @@ public class BrowserNavigation
 		System.out.println("Current Link: " + currentLink);
 		
 		// print the two stacks that are keeping track of back and forward links
+		System.out.println("Back with " + backLinks.size() + " links:");
 		System.out.println("\n" + backLinks);
+		
+		System.out.println("Forward with " + forwardLinks.size() + " links:");
 		System.out.println("\n" + forwardLinks);
 	}
 
@@ -115,10 +118,10 @@ public class BrowserNavigation
 		final String FILENAME = "resources/links.txt";
 		
 		// NOTE: An example of testing the boundary condition when back links stack is empty
-		//final String FILENAME = "resources/popEmptyStackOfLinks.txt";
+//		final String FILENAME = "resources/popEmptyStackOfLinks.txt";
 		
 		// TODO: Provide test input files in addition to those provide.
-		// final String FILENAME = ??
+//		 final String FILENAME = "resources/additionalLinksForTesting.txt";
 
 		BrowserNavigation bn = new BrowserNavigation();
 		Navigator navigator = bn.getNavigationFeature();
@@ -149,6 +152,7 @@ public class BrowserNavigation
 					navigator.setCurrentLink(linkName);
 
 					if (SHOW_DETAILS)
+					
 						bn.printLinks("At line #" + lineNum + ": " + line);
 					continue;
 				}
@@ -189,6 +193,7 @@ public class BrowserNavigation
 					else
 						System.out.printf("\nLink %s NOT found\n", linkName);
 				}
+				
 			}		
 			
 			// closing the input file resource
