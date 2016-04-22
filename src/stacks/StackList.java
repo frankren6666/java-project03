@@ -73,6 +73,14 @@ public class StackList<T> extends LinkedList<T> implements Iterable <T>
         return (T) this.top.getData();        
     }
 
+    // for emptying current stacklist
+    public void emptyStackList()
+    {      
+        while(!super.isEmpty())
+        {
+            this.pop();
+        }
+    }
 
     @Override
     public Iterator<T> iterator()

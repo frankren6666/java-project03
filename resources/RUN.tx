@@ -117,12 +117,9 @@ Back with 2 links:
 [news.google.com
 www.google.com
 ]
-Forward with 3 links:
+Forward with 0 links:
 
-[www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #10: back
@@ -131,12 +128,9 @@ Back with 1 links:
 
 [www.google.com
 ]
-Forward with 4 links:
+Forward with 1 links:
 
 [www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
 ]
 
 
@@ -147,13 +141,9 @@ Back with 2 links:
 [news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #12: link www.techtimes.com/biztech
@@ -164,13 +154,9 @@ Back with 3 links:
 news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #13: link www.techtimes.com/articles/27723/20150122/tips-for-learning-ja
@@ -184,13 +170,9 @@ www.techtimes.com
 news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #14: back
@@ -201,13 +183,9 @@ Back with 3 links:
 news.google.com
 www.google.com
 ]
-Forward with 5 links:
+Forward with 1 links:
 
 [www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
-www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
 ]
 
 
@@ -218,14 +196,10 @@ Back with 2 links:
 [news.google.com
 www.google.com
 ]
-Forward with 6 links:
+Forward with 2 links:
 
 [www.techtimes.com/biztech
 www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
-www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
 ]
 
 
@@ -236,13 +210,9 @@ Back with 2 links:
 [news.google.com
 www.google.com
 ]
-Forward with 5 links:
+Forward with 1 links:
 
 [www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
-www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
 ]
 
 
@@ -254,13 +224,9 @@ Back with 2 links:
 [news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #18: link www.java.com/en/java_in_action/alice.jsp
@@ -271,13 +237,9 @@ Back with 3 links:
 news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 Link news.foogle.com NOT found
 
@@ -293,13 +255,9 @@ www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
 news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #22: link www.ign.com
@@ -312,13 +270,9 @@ www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
 news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #23: link www.ted.com
@@ -332,13 +286,9 @@ www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
 news.google.com
 www.google.com
 ]
-Forward with 4 links:
+Forward with 0 links:
 
-[www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 
 At line #24: back
@@ -351,13 +301,9 @@ www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
 news.google.com
 www.google.com
 ]
-Forward with 5 links:
+Forward with 1 links:
 
 [www.ted.com
-www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
 ]
 
 
@@ -370,14 +316,10 @@ www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
 news.google.com
 www.google.com
 ]
-Forward with 6 links:
+Forward with 2 links:
 
 [www.ign.com
 www.ted.com
-www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
 ]
 
 Link www.ted.com NOT found
@@ -393,15 +335,9 @@ www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
 news.google.com
 www.google.com
 ]
-Forward with 6 links:
+Forward with 0 links:
 
-[www.ign.com
-www.ted.com
-www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 Link www.ted.com NOT found
 
@@ -417,15 +353,9 @@ www.techtimes.com/articles/27723/20150122/tips-for-learning-java.htm
 news.google.com
 www.google.com
 ]
-Forward with 6 links:
+Forward with 0 links:
 
-[www.ign.com
-www.ted.com
-www.technologyreview.com
-www.educationnews.org
-www.nytimes.com
-www.nytimes.com/pages/education
-]
+[]
 
 Done with BrowserNavigation.
 
@@ -436,6 +366,7 @@ Test file: resources/popEmptyStackOfLinks.txt
 
 NOTES: Testing attempts to remove item from empty Back stack.
 ---------------------------------------------------
+
 
 
 At line #1: link www.google.com
@@ -599,12 +530,14 @@ www.nytimes.com/pages/education
 Done with BrowserNavigation.
 
 
+
 ---------------------------------------------------
 ---------------------------------------------------
 Test file: resources/additionalLinksForTesting.txt 
 
 NOTES: [Testing attempts to access items in empty forward stack]
 ---------------------------------------------------
+
 
 
 At line #1: link www.google.com
@@ -729,10 +662,9 @@ Back with 3 links:
 myetudes.org/portal
 www.google.com
 ]
-Forward with 1 links:
+Forward with 0 links:
 
-[docs.oracle.com
-]
+[]
 
 
 
@@ -744,12 +676,12 @@ Back with 3 links:
 myetudes.org/portal
 www.google.com
 ]
-Forward with 1 links:
+Forward with 0 links:
 
-[docs.oracle.com
-]
+[]
 
 Done with BrowserNavigation.
+
 
 
 ---------------------------------------------------

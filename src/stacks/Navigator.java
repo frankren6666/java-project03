@@ -36,8 +36,8 @@ public class Navigator
             // Places the old currentLink on the backLinks stack.        
             backLinks.push(getCurrentLink());
         }
-
-        this.currentLink = link;        
+        this.currentLink = link; 
+        forwardLinks.emptyStackList();
     }
 
     /**
