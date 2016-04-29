@@ -1,0 +1,46 @@
+FEEDBACK:
+
+Excellent implementation of stack data structure, especially in using 
+    object oriented design to extend your generic LinkedList class.
+    
+
+Good testing of your implementation. You're very close.
+	Make sure to always verify your results or post a question if you are unsure.
+	
+	
+—1 class StackList is missing displaying required field "name", which makes it difficult to 
+     identify the stack you are displaying. 
+     See sample output in project description. 
+     For future, if the description is unclear, please post a question on discussion forum.
+     
+     Next time minus two for this.
+
+
+-0.5 incomplete implementation of class Navigator goForward() method does not
+   successfully set the backLinks stack.
+   See sample output below.
+
+   Suggestion: Try the adding a few links to your browser’s forward links stack.
+               Then, go to a new page. What happens?
+               
+-Bita.
+
+
+sample output:
+...
+At line #3: back
+Current Link: www.yahoo.com
+
+[]
+
+[www.youtube.com
+]
+
+
+At line #4: forward
+Current Link: www.youtube.com
+
+[]
+
+[]
+...
